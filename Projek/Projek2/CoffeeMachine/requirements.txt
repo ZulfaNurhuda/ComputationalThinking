@@ -1,0 +1,6 @@
+dotenv
+gspread
+qrcode
+opencv-python
+inputimeout
+flask
