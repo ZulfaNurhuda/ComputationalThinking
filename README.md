@@ -2,7 +2,7 @@
 
 ### **Welcome to this amazing repository!** 🎉  
 
-This is a special place to archive all **assignments** and **laboratory activities** from the **Computational Thinking** course at **Bandung Institute of Technology (ITB)**, specifically for the Information Systems and Technology study program. This repository is designed to be a neat, informative, and definitely *cool* academic archive! 👀
+This is a special place to archive all **assignments** and **laboratory activities** from the **Computational Thinking** course at **Institut Teknologi Bandung (ITB)**, specifically for the **Matriculation Program** ("Tahap Persiapan Bersama"). This repository is designed to be a neat, informative, and definitely *cool* academic archive! 👀
 
 ---
 
