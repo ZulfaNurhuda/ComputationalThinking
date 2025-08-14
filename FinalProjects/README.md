@@ -11,7 +11,7 @@ Hey there, fellow coder! 👋 Welcome to the Final Projects directory of our Com
 The **actual final project** for this Computational Thinking course is a super cool **Coffee Machine Simulation** that's living its best life in a separate repository! ☕✨
 
 **🔗 Find the complete project here:**
-**[https://github.com/ZulfaNurhuda/CoffeeMachine](https://github.com/ZulfaNurhuda/CoffeeMachine)**
+**[https://github.com/ZulfaNurhuda/CoffeeMachine.project](https://github.com/ZulfaNurhuda/CoffeeMachine.project)**
 
 ---
 
@@ -67,7 +67,7 @@ This project represents the culmination of our learning journey in:
 
 Head over to the main repository and dive into the fascinating world of coffee machine simulation! Don't forget to check out the comprehensive documentation, code comments, and implementation details! ☕🚀
 
-**[👉 Visit the Coffee Machine Repository Now!](https://github.com/ZulfaNurhuda/CoffeeMachine)**
+**[👉 Visit the Coffee Machine Repository Now!](https://github.com/ZulfaNurhuda/CoffeeMachine.project)**
 
 ---
 
